@@ -1,0 +1,90 @@
+body {
+  background-color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0%;
+  padding: 0;
+
+
+}
+
+.decaler{
+  margin-left: 150px;
+  margin-Top: -20px;
+}
+
+
+.objets{
+  padding: 4px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  width: 323px;
+  color: #000;
+}
+textarea{
+  margin-top: -20px;
+  padding: 2px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+ width: 323px;
+}
+.select{
+  
+  padding: 4px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  width: 145px;
+}
+.select1{
+  
+  padding: 4px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  width: 155px;
+  margin-left: 25px;
+}
+.tytext{
+ 
+  padding: 2px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  width: 155px;
+  box-sizing: border-box;
+  background: transparent;
+  font-size: 15px;
+  outline: 0;
+  margin-left: 20px;
+}
+.ligne1{
+  width: 290px;
+  margin-top: -14px;
+  margin-left: 10px;
+  color: #4e73df;
+}
+.align1{
+  display: flex;
+  margin-left: 710px; 
+}
+
+.Type {
+  
+  width: 180px;
+  
+}
+.file{
+font-size: large;
+}
+.form{
+  margin-left: 300px;
+  
+}
+.dec{
+  margin-left: 70px;
+}
+
+
+
+

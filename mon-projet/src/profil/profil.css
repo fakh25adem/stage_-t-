@@ -1,0 +1,79 @@
+.donnee{
+    
+    margin-top: 50px;
+}
+.label {
+    display: inline-block;
+    width: 100px;
+    /* text-align: left; */
+    color: rgb(24, 11, 11);
+    /* margin-left: 20px; */
+}
+h2{
+    font-size: 1.2rem;
+    color: rgb(49, 47, 47);
+    text-align: center;
+}
+.align2{
+    display: flex;
+    margin-left: 870px; 
+  
+    
+  }
+.text{
+   
+    margin: 14px ;
+    padding: 4px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  .email{
+   
+    margin: 14px ;
+    padding: 4px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+ 
+  .h2{
+    color:  #4e73df;
+  }
+  .border {
+    background-color:rgb(255, 255, 255);
+    margin: 15px;
+    box-shadow: 
+    5px 10px 10px 5px rgba(26, 25, 25, 0.5);
+    height: 100%;
+    width: 400px;
+    border: 1px whitesmoke;
+  }
+  .butn{
+  background-color:  #4e73df; /* Green */
+  border: none;
+  color: white;
+  padding: 12px 12px;
+  text-align: center;
+  text-decoration: none;
+  /* display: inline-block; */
+  font-size: 14px;
+  margin: 10px;
+  }
+  .butn:hover{
+    background-color: #1414cf;
+  }
+  .dessinp{
+    width: 250px;
+  background-color:  #4e73df ;
+    border-radius: 1px;
+    padding: 25px;
+    
+  }
+  .dis{
+    background-color: rgba(145, 144, 144, 0.283);
+  }
+
+  /* ::placeholder {
+    color: black;
+  } */
